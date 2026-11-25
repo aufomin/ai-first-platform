@@ -1,0 +1,91 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/runkids/skillshare/main/schemas/project-config.schema.json
+
+targets: []
+
+skills:
+  - name: ask-matt
+    source: github.com/mattpocock/skills/skills/engineering/ask-matt
+  - name: chief-of-staff
+    source: github.com/mattpocock/skills/skills/in-progress/chief-of-staff
+  - name: claude-handoff
+    source: github.com/mattpocock/skills/skills/in-progress/claude-handoff
+  - name: code-review
+    source: github.com/mattpocock/skills/skills/engineering/code-review
+  - name: codebase-design
+    source: github.com/mattpocock/skills/skills/engineering/codebase-design
+  - name: diagnosing-bugs
+    source: github.com/mattpocock/skills/skills/engineering/diagnosing-bugs
+  - name: domain-modeling
+    source: github.com/mattpocock/skills/skills/engineering/domain-modeling
+  - name: git-guardrails-claude-code
+    source: github.com/mattpocock/skills/skills/misc/git-guardrails-claude-code
+  - name: grill-me
+    source: github.com/mattpocock/skills/skills/productivity/grill-me
+  - name: grill-with-docs
+    source: github.com/mattpocock/skills/skills/engineering/grill-with-docs
+  - name: grilling
+    source: github.com/mattpocock/skills/skills/productivity/grilling
+  - name: handoff
+    source: github.com/mattpocock/skills/skills/productivity/handoff
+  - name: implement
+    source: github.com/mattpocock/skills/skills/engineering/implement
+  - name: implement-spec
+    source: github.com/mattpocock/skills/skills/engineering/implement-spec
+  - name: improve-codebase-architecture
+    source: github.com/mattpocock/skills/skills/engineering/improve-codebase-architecture
+  - name: loop-me
+    source: github.com/mattpocock/skills/skills/in-progress/loop-me
+  - name: migrate-to-shoehorn
+    source: github.com/mattpocock/skills/skills/misc/migrate-to-shoehorn
+  - name: pr
+    source: github.com/mattpocock/skills/skills/engineering/pr
+  - name: prototype
+    source: github.com/mattpocock/skills/skills/engineering/prototype
+  - name: research
+    source: github.com/mattpocock/skills/skills/engineering/research
+  - name: retro
+    source: github.com/mattpocock/skills/skills/engineering/retro
+  - name: scaffold-exercises
+    source: github.com/mattpocock/skills/skills/misc/scaffold-exercises
+  - name: setup-matt-pocock-skills
+    source: github.com/mattpocock/skills/skills/engineering/setup-matt-pocock-skills
+  - name: setup-pre-commit
+    source: github.com/mattpocock/skills/skills/misc/setup-pre-commit
+  - name: setup-ts-deep-modules
+    source: github.com/mattpocock/skills/skills/in-progress/setup-ts-deep-modules
+  - name: software-factory
+    source: github.com/mattpocock/skills/skills/in-progress/software-factory
+  - name: tdd
+    source: github.com/mattpocock/skills/skills/engineering/tdd
+  - name: teach
+    source: github.com/mattpocock/skills/skills/productivity/teach
+  - name: to-questionnaire
+    source: github.com/mattpocock/skills/skills/productivity/to-questionnaire
+  - name: to-spec
+    source: github.com/mattpocock/skills/skills/engineering/to-spec
+  - name: to-tickets
+    source: github.com/mattpocock/skills/skills/engineering/to-tickets
+  - name: triage
+    source: github.com/mattpocock/skills/skills/engineering/triage
+  - name: wait-what
+    source: github.com/mattpocock/skills/skills/productivity/wait-what
+  - name: wayfinder
+    source: github.com/mattpocock/skills/skills/engineering/wayfinder
+  - name: wizard
+    source: github.com/mattpocock/skills/skills/engineering/wizard
+  - name: writing-beats
+    source: github.com/mattpocock/skills/skills/in-progress/writing-beats
+  - name: writing-for-agents
+    source: github.com/mattpocock/skills/skills/productivity/writing-for-agents
+  - name: writing-fragments
+    source: github.com/mattpocock/skills/skills/in-progress/writing-fragments
+  - name: writing-shape
+    source: github.com/mattpocock/skills/skills/in-progress/writing-shape
+
+ignore:
+  - .DS_Store
+  - .git/
+  - __pycache__/
+
+audit:
+  block_threshold: CRITICAL

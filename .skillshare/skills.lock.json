@@ -1,0 +1,200 @@
+{
+  "version": 1,
+  "skills": {
+    "ask-matt": {
+      "source": "github.com/mattpocock/skills/skills/engineering/ask-matt",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "d6a0d9bf3cdc78cbfcbd6466ac5fd3deffb52877"
+    },
+    "chief-of-staff": {
+      "source": "github.com/mattpocock/skills/skills/in-progress/chief-of-staff",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "58e0a4122260ba45c150d8201dad2d6de4153d18"
+    },
+    "claude-handoff": {
+      "source": "github.com/mattpocock/skills/skills/in-progress/claude-handoff",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "57d198aca08eddccb113632d52c6c13f1f3066ac"
+    },
+    "code-review": {
+      "source": "github.com/mattpocock/skills/skills/engineering/code-review",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "a8ef561571acbb611de8ff19ba6da75b197c63a8"
+    },
+    "codebase-design": {
+      "source": "github.com/mattpocock/skills/skills/engineering/codebase-design",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "4cbe1c131e1ea54109cb1e4e5f3c505810db6606"
+    },
+    "diagnosing-bugs": {
+      "source": "github.com/mattpocock/skills/skills/engineering/diagnosing-bugs",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "5fdd6cc53385395441910b026c72d71768e993d4"
+    },
+    "domain-modeling": {
+      "source": "github.com/mattpocock/skills/skills/engineering/domain-modeling",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "ea30ee454ba264543dbe40737973b1a5afb9f0e6"
+    },
+    "git-guardrails-claude-code": {
+      "source": "github.com/mattpocock/skills/skills/misc/git-guardrails-claude-code",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "ceed97af09633b300826d0ca0b1464c527ec9a35"
+    },
+    "grill-me": {
+      "source": "github.com/mattpocock/skills/skills/productivity/grill-me",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "3df14e2d3a89459bf300614be9247e3ce74798f8"
+    },
+    "grill-with-docs": {
+      "source": "github.com/mattpocock/skills/skills/engineering/grill-with-docs",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "eedaf2562c83155115e9c649fa3ecaac2e10e81d"
+    },
+    "grilling": {
+      "source": "github.com/mattpocock/skills/skills/productivity/grilling",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "f551b6e0d219fdda0b6abf277f8f915b3127d1e9"
+    },
+    "handoff": {
+      "source": "github.com/mattpocock/skills/skills/productivity/handoff",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "ce24892bd2d4b9e7fd5ac9b95c03175e18bef388"
+    },
+    "implement": {
+      "source": "github.com/mattpocock/skills/skills/engineering/implement",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "4804b466ab26c9b9d8d42917547db133d1f20a9f"
+    },
+    "implement-spec": {
+      "source": "github.com/mattpocock/skills/skills/engineering/implement-spec",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "407c196f5c88af53c71efc8f31ee37c02dbb12e7"
+    },
+    "improve-codebase-architecture": {
+      "source": "github.com/mattpocock/skills/skills/engineering/improve-codebase-architecture",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "587147dd230da299cc5e84971cb0a33f6676f8a6"
+    },
+    "loop-me": {
+      "source": "github.com/mattpocock/skills/skills/in-progress/loop-me",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "a0dfdc3562686d920900973b50289b36e2f7eafe"
+    },
+    "migrate-to-shoehorn": {
+      "source": "github.com/mattpocock/skills/skills/misc/migrate-to-shoehorn",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "0aea91a3599a4bf7aeec17e3262d4cbcfcbeec23"
+    },
+    "pr": {
+      "source": "github.com/mattpocock/skills/skills/engineering/pr",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "00b896d811adffad747c7ca30078d909d60c7f93"
+    },
+    "prototype": {
+      "source": "github.com/mattpocock/skills/skills/engineering/prototype",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "e41d92e171f074a2b6887d8f6faca4a15c83d1ca"
+    },
+    "research": {
+      "source": "github.com/mattpocock/skills/skills/engineering/research",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "2f8f36af48796faed5c687c75bb650071631a984"
+    },
+    "retro": {
+      "source": "github.com/mattpocock/skills/skills/engineering/retro",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "335c1862a43da9d629abafdb79ca0c0de118be08"
+    },
+    "scaffold-exercises": {
+      "source": "github.com/mattpocock/skills/skills/misc/scaffold-exercises",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "44a0ee332b9d67ebbd59389c7eb4e5aff1ce845c"
+    },
+    "setup-matt-pocock-skills": {
+      "source": "github.com/mattpocock/skills/skills/engineering/setup-matt-pocock-skills",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "b644b684781fd5baae57f6be000a180a4d4448d7"
+    },
+    "setup-pre-commit": {
+      "source": "github.com/mattpocock/skills/skills/misc/setup-pre-commit",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "5b63f9f665bacc9be04cae51982e9ef1469d6699"
+    },
+    "setup-ts-deep-modules": {
+      "source": "github.com/mattpocock/skills/skills/in-progress/setup-ts-deep-modules",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "b32508a8a7d62c07d32d7c5cff84d357719def7f"
+    },
+    "software-factory": {
+      "source": "github.com/mattpocock/skills/skills/in-progress/software-factory",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "2a146bd4f7d68ff44d8dfdad8d6e5bc369ac931c"
+    },
+    "tdd": {
+      "source": "github.com/mattpocock/skills/skills/engineering/tdd",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "667dbdd00c09d0e2189e082986e6a4d61a67c2a6"
+    },
+    "teach": {
+      "source": "github.com/mattpocock/skills/skills/productivity/teach",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "3fd617b610e59acbb99644de1ef37e394ff53cd1"
+    },
+    "to-questionnaire": {
+      "source": "github.com/mattpocock/skills/skills/productivity/to-questionnaire",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "46dfbeeba12a9e52eef446676f42e7551023d9a9"
+    },
+    "to-spec": {
+      "source": "github.com/mattpocock/skills/skills/engineering/to-spec",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "136b9651747cfccbfbb7c50a6b0dfb757e7547d2"
+    },
+    "to-tickets": {
+      "source": "github.com/mattpocock/skills/skills/engineering/to-tickets",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "2dee20ad722a31c04ededf9f2d83842473573045"
+    },
+    "triage": {
+      "source": "github.com/mattpocock/skills/skills/engineering/triage",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "4cb951d62ecccaed601cdc5f9a1b7b3d8a799635"
+    },
+    "wait-what": {
+      "source": "github.com/mattpocock/skills/skills/productivity/wait-what",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "c8b050e6b8c711be1a9008ceacb2126914f0763e"
+    },
+    "wayfinder": {
+      "source": "github.com/mattpocock/skills/skills/engineering/wayfinder",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "25da74eadc3e388b2f2a2cc716f3d44b2fb9dfe0"
+    },
+    "wizard": {
+      "source": "github.com/mattpocock/skills/skills/engineering/wizard",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "e396d3ba97c723a78ffd350fb14a3c409137b306"
+    },
+    "writing-beats": {
+      "source": "github.com/mattpocock/skills/skills/in-progress/writing-beats",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "3a28fb076fdaaec0927080718abb98fc0f340011"
+    },
+    "writing-for-agents": {
+      "source": "github.com/mattpocock/skills/skills/productivity/writing-for-agents",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "ad2925850efb8973a72d2e666f7a975f9a2d4a9b"
+    },
+    "writing-fragments": {
+      "source": "github.com/mattpocock/skills/skills/in-progress/writing-fragments",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "98e500e0097ec80f52f6a024c5a2ff6d15235bdb"
+    },
+    "writing-shape": {
+      "source": "github.com/mattpocock/skills/skills/in-progress/writing-shape",
+      "commit": "5863806dd4e15c63174bee4e7515a4256792ecfa",
+      "tree_hash": "ac92229646fccf7315ae139c37b479b3790617f2"
+    }
+  }
+}
